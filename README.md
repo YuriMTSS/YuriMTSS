@@ -4,11 +4,11 @@
 - 💞️ Estou procurando colaborar em grupos de dados e aprender cada vez mais como funciona um trabalho em grupo.
 - 📫 Como chegar até mim
 
-email: yurimarti81@gmail.com
-
+email: 
+yurimarti81@gmail.com
 yuriestudos01@gmail.com
 
-fone/whatsapp: (85) 9 8636 83 04
+fone/whatsapp/telegram: (85) 9 8636 83 04
 
 <!---
 YuriMTSS/YuriMTSS é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
@@ -27,7 +27,7 @@ email: yurimarti81@gmail.com
 
 yurietudos01@gmail.com
 
-phone/whatsapp: (85) 9 8636 83 04
+phone/whatsapp/telegram: (85) 9 8636 83 04
 
 <!---
 YuriMTSS/YuriMTSS is a ✨ special ✨ repository because its `README.md` (this file) appears in your GitHub profile.
